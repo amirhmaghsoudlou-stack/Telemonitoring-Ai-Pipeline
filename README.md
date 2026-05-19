@@ -90,3 +90,11 @@ Fälle mit nur einer Klasse können übersprungen werden.
 
 📄 Full report: `docs/report_telemonitoring_ai.md`
 📄 Vollständiger Bericht: `docs/report_telemonitoring_ai.md`
+
+### Example outputs
+![Case 01 Alerts](results/figures/case01_alerts.png)
+![Case 03 Alerts](results/figures/case03_alerts.png)
+![Case 04 Alerts](results/figures/case04_alerts.png)
+
+### Beispiel-Ausgaben
+Siehe die gespeicherten Abbildungen unter `results/figures/`.
