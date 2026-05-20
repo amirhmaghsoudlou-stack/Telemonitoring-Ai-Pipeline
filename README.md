@@ -98,3 +98,18 @@ Fälle mit nur einer Klasse können übersprungen werden.
 
 ### Beispiel-Ausgaben
 Siehe die gespeicherten Abbildungen unter `results/figures/`.
+
+
+### Results snapshot (multi-case, target recall = 0.80)
+**Aggregate (cases 1–5, valid cases: 4/5)**
+- ROC-AUC: **0.773**
+- Precision / Recall / F1: **0.416 / 0.479 / 0.425**
+- False Alarms (FP) / Missed Events (FN): **1216.5 / 856.25**
+
+---
+
+### Ergebnis-Snapshot (mehrere Fälle, Ziel-Recall = 0.80)
+**Aggregat (Fälle 1–5, gültige Fälle: 4/5)**
+- ROC-AUC: **0.773**
+- Precision / Recall / F1: **0.416 / 0.479 / 0.425**
+- Fehlalarme (FP) / Verpasste Ereignisse (FN): **1216.5 / 856.25**
